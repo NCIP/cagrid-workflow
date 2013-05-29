@@ -16,9 +16,9 @@ caGrid Workflow is distributed under the BSD 3-Clause License. Please see the NO
 
 You will find more details about cagrid-workflow in the following links:
 
-* Mailing List: https://list.nih.gov/cgi-bin/wa.exe?A0=cagrid_users-l
-* JIRA: https://tracker.nci.nih.gov/browse/CAGRID
-* Wiki: https://wiki.cagrid.org
-* https://github.com/NCIP/cagrid-workflow
+ * [caGrid.org Wiki] (https://wiki.cagrid.org)
+ * [Code Repository] (https://github.com/NCIP/cagrid-workflow)
+ * [Issue Tracker] (https://tracker.nci.nih.gov/browse/CAGRID)
+ * [Mailing List] (https://list.nih.gov/cgi-bin/wa.exe?A0=cagrid_users-l)
 
 Please join us in further developing and improving  caGrid Workflow.
