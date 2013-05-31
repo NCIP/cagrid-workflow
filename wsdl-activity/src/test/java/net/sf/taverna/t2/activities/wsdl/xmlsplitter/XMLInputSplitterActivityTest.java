@@ -5,7 +5,7 @@
 *  and Ekagra Software Technologies Ltd.
 *
 *  Distributed under the OSI-approved BSD 3-Clause License.
-*  See http://ncip.github.com/cagrid-core/LICENSE.txt for details.
+*  See http://ncip.github.com/cagrid-workflow/LICENSE.txt for details.
 *============================================================================
 **/
 package net.sf.taverna.t2.activities.wsdl.xmlsplitter;
