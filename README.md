@@ -21,4 +21,4 @@ You will find more details about cagrid-workflow in the following links:
  * [Issue Tracker] (https://tracker.nci.nih.gov/browse/CAGRID)
  * [Mailing List] (https://list.nih.gov/cgi-bin/wa.exe?A0=cagrid_users-l)
 
-Please join us in further developing and improving  caGrid Workflow.
+Please join us in further developing and improving caGrid Workflow.
