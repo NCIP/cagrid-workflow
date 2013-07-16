@@ -13,7 +13,7 @@ caGrid Workflow is an Open Source project written in Java, and makes use of caGr
 workbench to enable orchestration of complex workflows; it employs three components:
  * [Taverna Workbench] (http://www.taverna.org.uk/documentation/taverna-2-x/) - Taverna is an open source and domain-independent Workflow Management System – a suite of tools used to design and execute scientific workflows and aid in silico experimentation.
  * [caGrid Plug-in for Taverna Workbench] (http://www.taverna.org.uk/introduction/related-projects/cagrid/) - Enables Taverna Workbench users to securely connect to caGrid services and build workflows between them
- * [caGrid Workflow Service] (http://www.cagrid.org/display/workflow14/Home) - is a caGrid WSRF service that accepts Taverna SCUFL workflows, securely orchestrates interactions between services, and returns the requested data set to the caller
+ * [caGrid Workflow Service] (http://www.cagrid.org/display/workflow14/Home) - (this project) is a caGrid WSRF service that accepts Taverna SCUFL workflows, securely orchestrates interactions between services, and returns the requested data set to the caller
 
 caGrid Workflow is distributed under the BSD 3-Clause License. Please see the NOTICE and LICENSE files for details.
 
